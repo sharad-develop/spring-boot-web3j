@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-web3j.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-web3j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-web3j_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-web3j_main.iml" group="spring-boot-web3j" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-web3j_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-web3j_test.iml" group="spring-boot-web3j" />
+    </modules>
+  </component>
+</project>

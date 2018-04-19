@@ -1,0 +1,5 @@
+
+# There are the default property values so can be omitted if being used
+web3j:
+  client-address: https://rinkeby.infura.io/xxxxxxx
+admin-client: false
